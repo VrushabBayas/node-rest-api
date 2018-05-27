@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "A Node REST API tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VrushabBayas/node-rest-api.git"
+  },
+  "author": "Vrushab Bays",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VrushabBayas/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/VrushabBayas/node-rest-api#readme"
+}
